@@ -22,4 +22,9 @@
   - Engenheiros de Dados de qualquer nível de senioridade que almejam evoluir seus conhecimentos técnicos.
   - Cientistas e Analistas de Dados que buscam aprofundar em práticas de Desenvolvimento e Engenharia de Software.
  
-[![aPOENA's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apoena-Stack&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+# Tecnologias que ensinamos
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
