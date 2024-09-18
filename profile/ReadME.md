@@ -2,6 +2,7 @@
 <h3 align="center">Torne-se um Especialista em Engenharia de Software para Dados</h3>
 
 - 🚩Objetivo
+  
   Capacitar profissionais na construção de sistemas, processos e plataformas de software voltados para soluções de dados e analíticas, seguindo as melhores práticas da Engenharia de Software.
 
 - 🧭 Metodologia
@@ -11,12 +12,14 @@
   - Comunidade com encontros semanais e mensais para trocas de conhecimento.
     
 - 🎖️Certificados
+  
   Emissão de Certificado por Curso, sem tempo de expiração, a partir do cumprimento dos requisitos mínimos:
   - 90% de conclusão do curso.
   - Submissão de todos os exercícios e simulados.
   - Nota igual ou superior a 80 (Nota máximo: 100).
     
 - 🚹 Público Alvo
+  
   Esta formação é voltada para:
   - Profissionais que almejam aprender a desenvolver aplicações de Dados, seguindo boas práticas de Engenharia de Software.
   - Engenheiros de Dados de qualquer nível de senioridade que almejam evoluir seus conhecimentos técnicos.
