@@ -18,18 +18,3 @@ Na Apoena Stack, não entregamos apenas cursos — oferecemos uma experiência c
 Vamos juntos construir o futuro dos dados? 🚀
 
 Se você gostou da qualidade do conteúdo, conheça nossa formação profissional e completa por [aqui](apoenastack.com).
-
-## Calendário de Lançamentos
-| Título | Quando? | Onde? | Gravação Gratuita? | 
-|---|---|---|---|
-| Roadmap Engenharia de Dados 2026 | 05/11 20h30 | Youtube | ✅ | 
-| Construção de API Modernas como Produto de Dados | 08/11 09h-18h | Formação | ❌ |
-| Extração de Dados de APIs com Python | 12/11 20h30 | Youtube | ✅ |
-| Construindo Pipelines no Databricks com Arquitetura Medalhão | 19/11 20h30 | Youtube | ✅ |
-| Validando Dados com Python Pydantic | 26/11 20h30 | Youtube | ❌ |
-| Construindo um Linkedin que Atrai Recrutadores | 03/12 20h30 | Youtube | ❌ |
-| Dashboards Profissionais com Python Streamlit e Plotly | 06/12 09h-12h | Formação | ❌ |
-| Estruturando Projetos de Dados com Jinja2 e Cookiecutter | 10/12 20h30 | Youtube | ❌ |
-| RECESSO | 24/12 | -- | --
-| RECESSO | 31/12 | -- | --
-
